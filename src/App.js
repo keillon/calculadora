@@ -43,7 +43,7 @@ const App = () => {
         handleMultiply()
         break
       case '/':
-        handleDivison()
+        handleDivigit initgit remote remove originson()
         break
       default:
         break
