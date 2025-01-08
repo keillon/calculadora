@@ -1,7 +1,7 @@
 {
   "name": "calculadora",
   "version": "0.1.0",
-  "homepage": "https://keillon.github.io/calculadora-react",
+  "homepage": "https://keillon.github.io/calculadora",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
